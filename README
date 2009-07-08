@@ -1,0 +1,3 @@
+sms-itouch provides a wrapper around the Itouch FTP SMS service.  It only has been tested against
+ftpsms.co.za and cannot be assumed that it works against any other of the Itouch subsidiaries
+ftpsms services.
